@@ -101,4 +101,4 @@ https://pkg.jenkins.io/debian-stable binary/ | sudo tee \
 
 ![Alt text](<Screenshot 2023-07-10 210704.png>)
 
-The End
+The
